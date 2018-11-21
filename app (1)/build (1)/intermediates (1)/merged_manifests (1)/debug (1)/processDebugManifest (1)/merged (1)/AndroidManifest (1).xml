@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.fadal.peekboo"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="17"
+        android:targetSdkVersion="28" />
+
+    <application
+        android:allowBackup="true"
+        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity android:name="com.example.fadal.peekboo.MainActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.example.fadal.peekboo.HomeActivity" />
+        <activity android:name="com.example.fadal.peekboo.ScanActivity" />
+        <activity android:name="com.example.fadal.peekboo.SuccessActivity" />
+        <activity android:name="com.example.fadal.peekboo.FailActivity" />
+        <activity android:name="com.example.fadal.peekboo.RegisterActivity" />
+        <activity android:name="com.example.fadal.peekboo.TshirtActivity" />
+        <activity android:name="com.example.fadal.peekboo.PantsActivity" />
+        <activity android:name="com.example.fadal.peekboo.TankActivity" />
+        <activity android:name="com.example.fadal.peekboo.DressActivity" />
+        <activity android:name="com.example.fadal.peekboo.SweaterActivity" />
+        <activity android:name="com.example.fadal.peekboo.SkirtActivity" />
+        <activity android:name="com.example.fadal.peekboo.OrganisingActivity" />
+        <activity android:name="com.example.fadal.peekboo.SettingsActivity" />
+        <activity android:name="com.example.fadal.peekboo.AccountActivity" />
+        <activity android:name="com.example.fadal.peekboo.PrivacyActivity" />
+        <activity android:name="com.example.fadal.peekboo.NotificationActivity" />
+        <activity android:name="com.example.fadal.peekboo.SupportActivity" />
+        <activity android:name="com.example.fadal.peekboo.LogoutActivity" />
+        <activity android:name="com.example.fadal.peekboo.LoginActivity" />
+        <activity android:name="com.example.fadal.peekboo.CategoryActivity" />
+        <activity android:name="com.example.fadal.peekboo.TypesActivity" />
+        <activity android:name="com.example.fadal.peekboo.TreasureboxActivity" />
+        <activity android:name="com.example.fadal.peekboo.ColorsActivity" />
+        <activity android:name="com.example.fadal.peekboo.WeatherActivity" />
+        <activity android:name="com.example.fadal.peekboo.ExampleActivity" />
+        <activity android:name="com.example.fadal.peekboo.SignupActivity" />
+    </application>
+
+</manifest>

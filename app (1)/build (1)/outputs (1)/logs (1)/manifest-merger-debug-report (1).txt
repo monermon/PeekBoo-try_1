@@ -1,0 +1,258 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\fadal\AndroidStudioProjects\PeekBoo\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\fadal\AndroidStudioProjects\PeekBoo\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\fadal\AndroidStudioProjects\PeekBoo\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\fadal\AndroidStudioProjects\PeekBoo\app\src\main\AndroidManifest.xml:2:1-47:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\fadal\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\c9ffbf425c204336c66bfebd1c0978c8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\fadal\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\ce179be9c3bb0009e08e4fc2918705fa\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\fadal\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\aa61190cec86c5d2c1dadcfb65ad93d7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\fadal\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\7ed7136129d876c096e4cb0f5e3da8ba\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\fadal\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\495df66a2bfc19560be12a0d2e32cfc2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\fadal\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\7bb0acac239807ba9167e5ff9d3376bc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\fadal\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\63f91b29afca417b88a65040c705aa8a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\fadal\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\7890e4a06afb82564af9b219ba22c3bd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\fadal\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\001d61136bca7e63c1a24abe0c65e8b7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\fadal\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\4b128c94b60d2be50c0e9e627ddbaeca\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\fadal\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\d939270e2307922baef02bf908985df4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\fadal\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\714f337f15436b990c7261ba3c6ae1ce\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\fadal\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\715dd7af8c7a903f5bcfcee57b3049ee\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\fadal\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\26d0123dfacb2c608a31d7de96d41d19\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\fadal\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\80c4e9923e2c3654a717ced8c0a53f66\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\fadal\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\fb54b7bb6a29c4ce857abcabc5715f63\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\fadal\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\4810599f36ebd2469e9af8fdefe81b13\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\fadal\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\22174027bdd9023af93d8465d580a4fa\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\fadal\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\ef3a0806b3bb4581a0366e7059912158\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\fadal\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\06738503fb3346eb61935d0763aede19\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\fadal\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\1402a9cf0a7b29a0cb39228356c6405b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\fadal\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\be731859a3d3e38bf27c4331659a5e4f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\fadal\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\f08b18dca45fab17fedf99eecbf4216e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\fadal\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\77f8462fd69b0ef107f51c30e4ac93d2\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\fadal\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\6a42de005e136c05b01001e556bda9d3\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\fadal\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\23dfc58f06604c2f35a9e8dc5fa57676\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\fadal\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\8400140a7c1ec2170a76c32e87427b86\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\fadal\AndroidStudioProjects\PeekBoo\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\fadal\AndroidStudioProjects\PeekBoo\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\fadal\AndroidStudioProjects\PeekBoo\app\src\main\AndroidManifest.xml:2:1-47:12
+	package
+		ADDED from C:\Users\fadal\AndroidStudioProjects\PeekBoo\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from C:\Users\fadal\AndroidStudioProjects\PeekBoo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\fadal\AndroidStudioProjects\PeekBoo\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\fadal\AndroidStudioProjects\PeekBoo\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\fadal\AndroidStudioProjects\PeekBoo\app\src\main\AndroidManifest.xml:2:1-47:12
+		INJECTED from C:\Users\fadal\AndroidStudioProjects\PeekBoo\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\fadal\AndroidStudioProjects\PeekBoo\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\fadal\AndroidStudioProjects\PeekBoo\app\src\main\AndroidManifest.xml:2:1-47:12
+		INJECTED from C:\Users\fadal\AndroidStudioProjects\PeekBoo\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\fadal\AndroidStudioProjects\PeekBoo\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\fadal\AndroidStudioProjects\PeekBoo\app\src\main\AndroidManifest.xml:5:5-45:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\fadal\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\ce179be9c3bb0009e08e4fc2918705fa\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\fadal\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\ce179be9c3bb0009e08e4fc2918705fa\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\fadal\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\fb54b7bb6a29c4ce857abcabc5715f63\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\fadal\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\fb54b7bb6a29c4ce857abcabc5715f63\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\fadal\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\4810599f36ebd2469e9af8fdefe81b13\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\fadal\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\4810599f36ebd2469e9af8fdefe81b13\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\fadal\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\fb54b7bb6a29c4ce857abcabc5715f63\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\fadal\AndroidStudioProjects\PeekBoo\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\fadal\AndroidStudioProjects\PeekBoo\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\fadal\AndroidStudioProjects\PeekBoo\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\fadal\AndroidStudioProjects\PeekBoo\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\fadal\AndroidStudioProjects\PeekBoo\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\fadal\AndroidStudioProjects\PeekBoo\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.fadal.peekboo.MainActivity
+ADDED from C:\Users\fadal\AndroidStudioProjects\PeekBoo\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\fadal\AndroidStudioProjects\PeekBoo\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\fadal\AndroidStudioProjects\PeekBoo\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\fadal\AndroidStudioProjects\PeekBoo\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\fadal\AndroidStudioProjects\PeekBoo\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\fadal\AndroidStudioProjects\PeekBoo\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\fadal\AndroidStudioProjects\PeekBoo\app\src\main\AndroidManifest.xml:16:27-74
+activity#com.example.fadal.peekboo.HomeActivity
+ADDED from C:\Users\fadal\AndroidStudioProjects\PeekBoo\app\src\main\AndroidManifest.xml:19:9-50
+	android:name
+		ADDED from C:\Users\fadal\AndroidStudioProjects\PeekBoo\app\src\main\AndroidManifest.xml:19:19-47
+activity#com.example.fadal.peekboo.ScanActivity
+ADDED from C:\Users\fadal\AndroidStudioProjects\PeekBoo\app\src\main\AndroidManifest.xml:20:9-50
+	android:name
+		ADDED from C:\Users\fadal\AndroidStudioProjects\PeekBoo\app\src\main\AndroidManifest.xml:20:19-47
+activity#com.example.fadal.peekboo.SuccessActivity
+ADDED from C:\Users\fadal\AndroidStudioProjects\PeekBoo\app\src\main\AndroidManifest.xml:21:9-53
+	android:name
+		ADDED from C:\Users\fadal\AndroidStudioProjects\PeekBoo\app\src\main\AndroidManifest.xml:21:19-50
+activity#com.example.fadal.peekboo.FailActivity
+ADDED from C:\Users\fadal\AndroidStudioProjects\PeekBoo\app\src\main\AndroidManifest.xml:22:9-50
+	android:name
+		ADDED from C:\Users\fadal\AndroidStudioProjects\PeekBoo\app\src\main\AndroidManifest.xml:22:19-47
+activity#com.example.fadal.peekboo.RegisterActivity
+ADDED from C:\Users\fadal\AndroidStudioProjects\PeekBoo\app\src\main\AndroidManifest.xml:23:9-54
+	android:name
+		ADDED from C:\Users\fadal\AndroidStudioProjects\PeekBoo\app\src\main\AndroidManifest.xml:23:19-51
+activity#com.example.fadal.peekboo.TshirtActivity
+ADDED from C:\Users\fadal\AndroidStudioProjects\PeekBoo\app\src\main\AndroidManifest.xml:24:9-52
+	android:name
+		ADDED from C:\Users\fadal\AndroidStudioProjects\PeekBoo\app\src\main\AndroidManifest.xml:24:19-49
+activity#com.example.fadal.peekboo.PantsActivity
+ADDED from C:\Users\fadal\AndroidStudioProjects\PeekBoo\app\src\main\AndroidManifest.xml:25:9-51
+	android:name
+		ADDED from C:\Users\fadal\AndroidStudioProjects\PeekBoo\app\src\main\AndroidManifest.xml:25:19-48
+activity#com.example.fadal.peekboo.TankActivity
+ADDED from C:\Users\fadal\AndroidStudioProjects\PeekBoo\app\src\main\AndroidManifest.xml:26:9-50
+	android:name
+		ADDED from C:\Users\fadal\AndroidStudioProjects\PeekBoo\app\src\main\AndroidManifest.xml:26:19-47
+activity#com.example.fadal.peekboo.DressActivity
+ADDED from C:\Users\fadal\AndroidStudioProjects\PeekBoo\app\src\main\AndroidManifest.xml:27:9-51
+	android:name
+		ADDED from C:\Users\fadal\AndroidStudioProjects\PeekBoo\app\src\main\AndroidManifest.xml:27:19-48
+activity#com.example.fadal.peekboo.SweaterActivity
+ADDED from C:\Users\fadal\AndroidStudioProjects\PeekBoo\app\src\main\AndroidManifest.xml:28:9-53
+	android:name
+		ADDED from C:\Users\fadal\AndroidStudioProjects\PeekBoo\app\src\main\AndroidManifest.xml:28:19-50
+activity#com.example.fadal.peekboo.SkirtActivity
+ADDED from C:\Users\fadal\AndroidStudioProjects\PeekBoo\app\src\main\AndroidManifest.xml:29:9-51
+	android:name
+		ADDED from C:\Users\fadal\AndroidStudioProjects\PeekBoo\app\src\main\AndroidManifest.xml:29:19-48
+activity#com.example.fadal.peekboo.OrganisingActivity
+ADDED from C:\Users\fadal\AndroidStudioProjects\PeekBoo\app\src\main\AndroidManifest.xml:30:9-56
+	android:name
+		ADDED from C:\Users\fadal\AndroidStudioProjects\PeekBoo\app\src\main\AndroidManifest.xml:30:19-53
+activity#com.example.fadal.peekboo.SettingsActivity
+ADDED from C:\Users\fadal\AndroidStudioProjects\PeekBoo\app\src\main\AndroidManifest.xml:31:9-54
+	android:name
+		ADDED from C:\Users\fadal\AndroidStudioProjects\PeekBoo\app\src\main\AndroidManifest.xml:31:19-51
+activity#com.example.fadal.peekboo.AccountActivity
+ADDED from C:\Users\fadal\AndroidStudioProjects\PeekBoo\app\src\main\AndroidManifest.xml:32:9-53
+	android:name
+		ADDED from C:\Users\fadal\AndroidStudioProjects\PeekBoo\app\src\main\AndroidManifest.xml:32:19-50
+activity#com.example.fadal.peekboo.PrivacyActivity
+ADDED from C:\Users\fadal\AndroidStudioProjects\PeekBoo\app\src\main\AndroidManifest.xml:33:9-53
+	android:name
+		ADDED from C:\Users\fadal\AndroidStudioProjects\PeekBoo\app\src\main\AndroidManifest.xml:33:19-50
+activity#com.example.fadal.peekboo.NotificationActivity
+ADDED from C:\Users\fadal\AndroidStudioProjects\PeekBoo\app\src\main\AndroidManifest.xml:34:9-58
+	android:name
+		ADDED from C:\Users\fadal\AndroidStudioProjects\PeekBoo\app\src\main\AndroidManifest.xml:34:19-55
+activity#com.example.fadal.peekboo.SupportActivity
+ADDED from C:\Users\fadal\AndroidStudioProjects\PeekBoo\app\src\main\AndroidManifest.xml:35:9-53
+	android:name
+		ADDED from C:\Users\fadal\AndroidStudioProjects\PeekBoo\app\src\main\AndroidManifest.xml:35:19-50
+activity#com.example.fadal.peekboo.LogoutActivity
+ADDED from C:\Users\fadal\AndroidStudioProjects\PeekBoo\app\src\main\AndroidManifest.xml:36:9-52
+	android:name
+		ADDED from C:\Users\fadal\AndroidStudioProjects\PeekBoo\app\src\main\AndroidManifest.xml:36:19-49
+activity#com.example.fadal.peekboo.LoginActivity
+ADDED from C:\Users\fadal\AndroidStudioProjects\PeekBoo\app\src\main\AndroidManifest.xml:37:9-51
+	android:name
+		ADDED from C:\Users\fadal\AndroidStudioProjects\PeekBoo\app\src\main\AndroidManifest.xml:37:19-48
+activity#com.example.fadal.peekboo.CategoryActivity
+ADDED from C:\Users\fadal\AndroidStudioProjects\PeekBoo\app\src\main\AndroidManifest.xml:38:9-54
+	android:name
+		ADDED from C:\Users\fadal\AndroidStudioProjects\PeekBoo\app\src\main\AndroidManifest.xml:38:19-51
+activity#com.example.fadal.peekboo.TypesActivity
+ADDED from C:\Users\fadal\AndroidStudioProjects\PeekBoo\app\src\main\AndroidManifest.xml:39:9-51
+	android:name
+		ADDED from C:\Users\fadal\AndroidStudioProjects\PeekBoo\app\src\main\AndroidManifest.xml:39:19-48
+activity#com.example.fadal.peekboo.TreasureboxActivity
+ADDED from C:\Users\fadal\AndroidStudioProjects\PeekBoo\app\src\main\AndroidManifest.xml:40:9-57
+	android:name
+		ADDED from C:\Users\fadal\AndroidStudioProjects\PeekBoo\app\src\main\AndroidManifest.xml:40:19-54
+activity#com.example.fadal.peekboo.ColorsActivity
+ADDED from C:\Users\fadal\AndroidStudioProjects\PeekBoo\app\src\main\AndroidManifest.xml:41:9-52
+	android:name
+		ADDED from C:\Users\fadal\AndroidStudioProjects\PeekBoo\app\src\main\AndroidManifest.xml:41:19-49
+activity#com.example.fadal.peekboo.WeatherActivity
+ADDED from C:\Users\fadal\AndroidStudioProjects\PeekBoo\app\src\main\AndroidManifest.xml:42:9-53
+	android:name
+		ADDED from C:\Users\fadal\AndroidStudioProjects\PeekBoo\app\src\main\AndroidManifest.xml:42:19-50
+activity#com.example.fadal.peekboo.ExampleActivity
+ADDED from C:\Users\fadal\AndroidStudioProjects\PeekBoo\app\src\main\AndroidManifest.xml:43:9-53
+	android:name
+		ADDED from C:\Users\fadal\AndroidStudioProjects\PeekBoo\app\src\main\AndroidManifest.xml:43:19-50
+activity#com.example.fadal.peekboo.SignupActivity
+ADDED from C:\Users\fadal\AndroidStudioProjects\PeekBoo\app\src\main\AndroidManifest.xml:44:9-61
+	android:name
+		ADDED from C:\Users\fadal\AndroidStudioProjects\PeekBoo\app\src\main\AndroidManifest.xml:44:19-49
+uses-sdk
+INJECTED from C:\Users\fadal\AndroidStudioProjects\PeekBoo\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\fadal\AndroidStudioProjects\PeekBoo\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\fadal\AndroidStudioProjects\PeekBoo\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\fadal\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\c9ffbf425c204336c66bfebd1c0978c8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\fadal\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\c9ffbf425c204336c66bfebd1c0978c8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\fadal\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\ce179be9c3bb0009e08e4fc2918705fa\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\fadal\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\ce179be9c3bb0009e08e4fc2918705fa\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\fadal\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\aa61190cec86c5d2c1dadcfb65ad93d7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\fadal\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\aa61190cec86c5d2c1dadcfb65ad93d7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\fadal\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\7ed7136129d876c096e4cb0f5e3da8ba\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\fadal\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\7ed7136129d876c096e4cb0f5e3da8ba\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\fadal\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\495df66a2bfc19560be12a0d2e32cfc2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\fadal\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\495df66a2bfc19560be12a0d2e32cfc2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\fadal\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\7bb0acac239807ba9167e5ff9d3376bc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\fadal\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\7bb0acac239807ba9167e5ff9d3376bc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\fadal\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\63f91b29afca417b88a65040c705aa8a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\fadal\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\63f91b29afca417b88a65040c705aa8a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\fadal\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\7890e4a06afb82564af9b219ba22c3bd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\fadal\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\7890e4a06afb82564af9b219ba22c3bd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\fadal\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\001d61136bca7e63c1a24abe0c65e8b7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\fadal\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\001d61136bca7e63c1a24abe0c65e8b7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\fadal\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\4b128c94b60d2be50c0e9e627ddbaeca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\fadal\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\4b128c94b60d2be50c0e9e627ddbaeca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\fadal\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\d939270e2307922baef02bf908985df4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\fadal\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\d939270e2307922baef02bf908985df4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\fadal\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\714f337f15436b990c7261ba3c6ae1ce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\fadal\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\714f337f15436b990c7261ba3c6ae1ce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\fadal\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\715dd7af8c7a903f5bcfcee57b3049ee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\fadal\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\715dd7af8c7a903f5bcfcee57b3049ee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\fadal\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\26d0123dfacb2c608a31d7de96d41d19\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\fadal\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\26d0123dfacb2c608a31d7de96d41d19\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\fadal\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\80c4e9923e2c3654a717ced8c0a53f66\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\fadal\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\80c4e9923e2c3654a717ced8c0a53f66\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\fadal\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\fb54b7bb6a29c4ce857abcabc5715f63\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\fadal\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\fb54b7bb6a29c4ce857abcabc5715f63\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\fadal\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\4810599f36ebd2469e9af8fdefe81b13\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\fadal\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\4810599f36ebd2469e9af8fdefe81b13\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\fadal\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\22174027bdd9023af93d8465d580a4fa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\fadal\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\22174027bdd9023af93d8465d580a4fa\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\fadal\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\ef3a0806b3bb4581a0366e7059912158\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\fadal\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\ef3a0806b3bb4581a0366e7059912158\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\fadal\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\06738503fb3346eb61935d0763aede19\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\fadal\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\06738503fb3346eb61935d0763aede19\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\fadal\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\1402a9cf0a7b29a0cb39228356c6405b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\fadal\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\1402a9cf0a7b29a0cb39228356c6405b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\fadal\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\be731859a3d3e38bf27c4331659a5e4f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\fadal\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\be731859a3d3e38bf27c4331659a5e4f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\fadal\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\f08b18dca45fab17fedf99eecbf4216e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\fadal\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\f08b18dca45fab17fedf99eecbf4216e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\fadal\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\77f8462fd69b0ef107f51c30e4ac93d2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\fadal\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\77f8462fd69b0ef107f51c30e4ac93d2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\fadal\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\6a42de005e136c05b01001e556bda9d3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\fadal\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\6a42de005e136c05b01001e556bda9d3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\fadal\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\23dfc58f06604c2f35a9e8dc5fa57676\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\fadal\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\23dfc58f06604c2f35a9e8dc5fa57676\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\fadal\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\8400140a7c1ec2170a76c32e87427b86\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\fadal\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\8400140a7c1ec2170a76c32e87427b86\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\fadal\AndroidStudioProjects\PeekBoo\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\fadal\AndroidStudioProjects\PeekBoo\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\fadal\AndroidStudioProjects\PeekBoo\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\fadal\AndroidStudioProjects\PeekBoo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\fadal\AndroidStudioProjects\PeekBoo\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\fadal\AndroidStudioProjects\PeekBoo\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\fadal\AndroidStudioProjects\PeekBoo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\fadal\AndroidStudioProjects\PeekBoo\app\src\main\AndroidManifest.xml
